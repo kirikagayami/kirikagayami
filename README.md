@@ -21,8 +21,6 @@ Here are some ideas to get you started:
   <img src="octocat.gif" alt="octocat" width="80" />
 
   [![Discord Presence](https://lanyard.kyrie25.dev/api/549855541296627722?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.8)%20blur(2px))](https://discord.com/users/549855541296627722)
-<<<<<<< HEAD
-=======
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&duration=500&color=AFFFAF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=80&lines=%5E%5E%5E%5E%5E%5E%5E%5E%5E%5E%5E;Reach+me+out+)](https://github.com/kirikagayami)
->>>>>>> 05716e2 (Added elements)
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&duration=500&color=AFFFAF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=80&lines=%5E%5E%5E%5E%5E%5E%5E%5E%5E%5E%5E;Reach+me+out+)](https://github.com/kirikagayami)
