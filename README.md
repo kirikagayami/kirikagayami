@@ -48,7 +48,8 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 GitHub Stats
-![Alif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirikagayami&show_icons=true&theme=tokyonight&hide_border=true)
+### 📊 GitHub Stats!
+
+![Alif's GitHub Stats](https://github-readme-stats.shion.dev/api?username=kirikagayami&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
