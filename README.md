@@ -24,21 +24,18 @@ Here are some ideas to get you started:
 
 ### 🛠️ Tech Stack & Focus
 
-**Languages & Scripting**  
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=AFFFAF)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=AFFFAF)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=AFFFAF)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=AFFFAF)
+**Languages & Scripting** ![C](https://img.shields.io/badge/C-000000?logo=c&logoColor=AFFFAF)
+![Java](https://img.shields.io/badge/Java-000000?logo=java&logoColor=AFFFAF)
+![Bash](https://img.shields.io/badge/Bash-000000?logo=gnu-bash&logoColor=AFFFAF)
+![Python](https://img.shields.io/badge/Python-000000?logo=python&logoColor=AFFFAF)
 
-**Networking & OS**  
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=AFFFAF)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=AFFFAF)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=AFFFAF)
-![Cisco](https://img.shields.io/badge/Cisco-000000?style=for-the-badge&logo=cisco&logoColor=AFFFAF)
+**Networking & OS** ![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=AFFFAF)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?logo=kali-linux&logoColor=AFFFAF)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?logo=wireshark&logoColor=AFFFAF)
+![Cisco](https://img.shields.io/badge/Cisco-000000?logo=cisco&logoColor=AFFFAF)
 
-**Tools & Environment**  
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=AFFFAF)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=AFFFAF)
+**Tools & Environment** ![Git](https://img.shields.io/badge/Git-000000?logo=git&logoColor=AFFFAF)
+![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=AFFFAF)
 
 ---
 
@@ -51,6 +48,6 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats!
 
-![Alif's GitHub Stats](https://github-readme-stats.shion.dev/api?username=kirikagayami&show_icons=true&theme=tokyonight&hide_border=true)
+![Alif's GitHub Stats](https://github-readme-stats.shion.dev/api?username=kirikagayami&show_icons=true&hide_border=true)
 
 </div>
