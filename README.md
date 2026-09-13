@@ -22,20 +22,21 @@ Here are some ideas to get you started:
 
 ---
 
-### 🛠️ Tech Stack & Focus
+**Languages & Scripting**  
+![C](https://img.shields.io/badge/C-333333?logo=c)
+![Java](https://img.shields.io/badge/Java-333333?logo=openjdk)
+![Bash](https://img.shields.io/badge/Bash-333333?logo=gnu-bash)
+![Python](https://img.shields.io/badge/Python-333333?logo=python)
 
-**Languages & Scripting** ![C](https://img.shields.io/badge/C-000000?logo=c&logoColor=AFFFAF)
-![Java](https://img.shields.io/badge/Java-000000?logo=java&logoColor=AFFFAF)
-![Bash](https://img.shields.io/badge/Bash-000000?logo=gnu-bash&logoColor=AFFFAF)
-![Python](https://img.shields.io/badge/Python-000000?logo=python&logoColor=AFFFAF)
+**Networking & OS**  
+![Linux](https://img.shields.io/badge/Linux-333333?logo=linux)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-333333?logo=kali-linux)
+![Wireshark](https://img.shields.io/badge/Wireshark-333333?logo=wireshark)
+![Cisco](https://img.shields.io/badge/Cisco-333333?logo=cisco)
 
-**Networking & OS** ![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=AFFFAF)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?logo=kali-linux&logoColor=AFFFAF)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?logo=wireshark&logoColor=AFFFAF)
-![Cisco](https://img.shields.io/badge/Cisco-000000?logo=cisco&logoColor=AFFFAF)
-
-**Tools & Environment** ![Git](https://img.shields.io/badge/Git-000000?logo=git&logoColor=AFFFAF)
-![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=AFFFAF)
+**Tools & Environment**  
+![Git](https://img.shields.io/badge/Git-333333?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-333333?logo=github)
 
 ---
 
