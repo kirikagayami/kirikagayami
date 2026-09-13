@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ### 🛠️ Tech Stack & Focus
 
 **Languages & Scripting**  
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=openjdk&logoColor=AFFFAF)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=AFFFAF)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=AFFFAF)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=AFFFAF)
